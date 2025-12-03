@@ -55,9 +55,9 @@ Ottawa, Canada (Open to relocate)
 ## 📫 Let’s Connect
 
 - 📧 Email: **ronitshahu@gmail.com**  
-- 🔗 LinkedIn: **linkedin.com/in/ronitshahu**  
-- 🌐 Portfolio: **ronitshahu.github.io**  
-- 🐙 GitHub: **github.com/ronitshahu**
+- 🔗 LinkedIn: **[linkedin.com/in/ronitshahu](https://www.linkedin.com/in/ronit-shahu/)**  
+- 🌐 Portfolio: **ronitshahu.com**  
+- 🐙 GitHub: **github.com/devilreaper123**
 
 ---
 
